@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "gold_and_silver_classic_ost p50",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "P50"
+        },
+        {
+            "name": "gold_and_silver_classic_ost PIXEL 2 XL",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "PIXEL 2 XL"
+        },
+        {
+            "name": "gold_and_silver_classic_ost web",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "Edge"
+        },
+        {
+            "name": "gold_and_silver_classic_ost (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "gold_and_silver_classic_ost (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
